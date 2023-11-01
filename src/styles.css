@@ -1,20 +1,10 @@
 body {
   background: lightcyan;
+  font-size: 20px;
 }
 h1 {
   text-align: center;
   margin: 70px auto;
-}
-.links {
-  text-align: center;
-}
-a {
-  text-align: center;
-  background-color: rgb(246, 199, 206);
-  border-radius: 4px;
-  padding: 20px 30px;
-  font-size: 20px;
-  margin: 0 10px;
 }
 img {
   display: block;
@@ -22,4 +12,18 @@ img {
   border-radius: 20px;
   width: 400px;
   height: auto;
+}
+.links {
+  text-align: center;
+}
+.links a {
+  text-align: center;
+  background-color: rgb(246, 199, 206);
+  border-radius: 4px;
+  padding: 20px 30px;
+
+  margin: 0 10px;
+}
+.footer {
+  margin-top: 80px;
 }
